@@ -1,0 +1,9 @@
+C:\Roman VS\Chapter5StringMethods\Chapter5StringMethods\obj\Debug\Chapter5StringMethods.csprojAssemblyReference.cache
+C:\Roman VS\Chapter5StringMethods\Chapter5StringMethods\obj\Debug\Chapter5StringMethods.Form1.resources
+C:\Roman VS\Chapter5StringMethods\Chapter5StringMethods\obj\Debug\Chapter5StringMethods.Properties.Resources.resources
+C:\Roman VS\Chapter5StringMethods\Chapter5StringMethods\obj\Debug\Chapter5StringMethods.csproj.GenerateResource.cache
+C:\Roman VS\Chapter5StringMethods\Chapter5StringMethods\bin\Debug\Chapter5StringMethods.exe.config
+C:\Roman VS\Chapter5StringMethods\Chapter5StringMethods\bin\Debug\Chapter5StringMethods.exe
+C:\Roman VS\Chapter5StringMethods\Chapter5StringMethods\bin\Debug\Chapter5StringMethods.pdb
+C:\Roman VS\Chapter5StringMethods\Chapter5StringMethods\obj\Debug\Chapter5StringMethods.exe
+C:\Roman VS\Chapter5StringMethods\Chapter5StringMethods\obj\Debug\Chapter5StringMethods.pdb
